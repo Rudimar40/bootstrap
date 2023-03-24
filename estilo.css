@@ -49,13 +49,13 @@ hr.class-1 {
     width: 100%;
     border-radius: 10px;
     -moz-box-shadow: 0 0 5px #888;
--webkit-box-shadow: 0 0 5px#888;
-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #888;
  
 }
 
 .hrest{
-    width: 10%;
+    width: 5%;
     height: 3px;
     background-color: aquamarine;
 }
@@ -83,4 +83,13 @@ box-shadow: 0 0 5px #888;
     -moz-box-shadow: 0 0 5px #888;
     -webkit-box-shadow: 0 0 5px#888;
     box-shadow: 0 0 5px #888;
+}
+.textjus_nor{
+    text-align: center;
+    
+}
+.botsub{
+    height: 100px;
+    width: 540px;
+    margin: auto;
 }
